@@ -1,5 +1,5 @@
-const myListPage = () => {
-  return <div>myListPage</div>
+const MyListPage = () => {
+  return <div>MyListPage</div>
 }
 
-export default myListPage
+export default MyListPage

@@ -1,5 +1,5 @@
-const originalsPage = () => {
-  return <div>originalsPage</div>
+const OriginalsPage = () => {
+  return <div>OriginalsPage</div>
 }
 
-export default originalsPage
+export default OriginalsPage
