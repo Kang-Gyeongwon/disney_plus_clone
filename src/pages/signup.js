@@ -1,5 +1,5 @@
 const SingUpPage = () => {
-  return <div></div>
+  return <div>SingUpPage</div>
 }
 
 export default SingUpPage
