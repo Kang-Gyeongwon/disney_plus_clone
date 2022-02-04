@@ -1,5 +1,9 @@
+import { StillImageBox, StillImg } from "./StillImageStlye"
+
 const StillImage = () => {
-  return <div></div>
+  return <StillImageBox>
+    <StillImg />
+  </StillImageBox>
 }
 
 export default StillImage
