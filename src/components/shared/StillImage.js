@@ -13,7 +13,7 @@ const StillImg = styled.img`
 
 const StillImage = () => {
   return <StillImageBox>
-    <StillImg />
+    <StillImg src="" />
   </StillImageBox>
 }
 
