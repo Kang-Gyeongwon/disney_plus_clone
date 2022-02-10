@@ -11,9 +11,9 @@ const StillImg = styled.img`
   background-repeat: no-repeat; background-position: center; background-size: 100% 100%;
 `
 
-const StillImage = () => {
+const StillImage = ({ src }) => {
   return <StillImageBox>
-    <StillImg src="" />
+    <StillImg src={src} />
   </StillImageBox>
 }
 
